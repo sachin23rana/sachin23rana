@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Rana</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" widht="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="max-width: 100%;display: inline-block;" data-tagret="animated-image.originalImage">
+<img align="right" alt="Coding" width="400"
+    src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin23rana&label=Profile%20views&color=0e75b6&style=flat" alt="sachin23rana" /> </p>
 
